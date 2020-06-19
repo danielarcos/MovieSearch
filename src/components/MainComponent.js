@@ -11,7 +11,6 @@ const useStyles = makeStyles((theme) => ({
         alignItems: 'center',
     },
     form: {
-
         marginTop: theme.spacing(3),
         width: '100%',
     },
